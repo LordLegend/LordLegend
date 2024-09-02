@@ -3,7 +3,7 @@
 
 ## Languages and Tools
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,php,cs,git,gitlab,mongodb,mysql,vscode,visualstudio,phpstorm,arduino)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,php,cs,git,gitlab,mongodb,mysql,vscode,visualstudio,phpstorm,arduino)]()<br/>
 
 <details>
   <summary>Github Stats :fire:</summary>
