@@ -15,12 +15,10 @@ I am a passionate **Application Development Apprentice** based in Germany, worki
 
 ---
 
-## 🛡️ Certifications & Learning
+## 🛡️ Certifications & Continuous Learning
 
 - 🎓 **Cisco:** CyberOps Associate *(In Progress)*
-- 🛡️ **TryHackMe:** Cyber Security 101 Certificate
-- 🌐 **TryHackMe:** Pre-Security Certificate
-- 📈 Continually expanding my hands-on knowledge via TryHackMe and practical labs.
+- 📈 Continually expanding my hands-on knowledge through practical security labs, network simulation, and defensive security platforms.
 
 ---
 
