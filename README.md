@@ -25,15 +25,6 @@ Passionate about application development, security, and and building reliable so
 - Daily drivers: VS Code / Visual Studio, Linux
 - Experience with web tech and databases from school and personal projects.
 
-## GitHub stats
-
-<details>
-  <summary>GitHub Stats 🔥</summary>
-
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=LordLegend&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordLegend&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
-
 ## Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/lordlegend)
